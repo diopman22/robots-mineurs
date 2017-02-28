@@ -1,0 +1,11 @@
+#
+#Thu Jan 12 15:59:57 UTC 2017
+plugins=msi.gama.core
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander
+attributes=population
+operators=-~square~as~point~/~rnd~and~<~distance_to~\!~.~circle~\=~mod~cross~>~\!\=~+~>\=~empty~where~internal_at~font~*~neighbors_at~any_location_in
+skills=reflex~fsm~moving~grid
+types=string~list~int~unknown~float~geometry~point~agent~rgb~bool~date~container
+statements=state~transition~set~do~arg~aspect~if~else~draw~action~create~ask~write~init~output~display~display_grid~display_population~permanent~chart~data
+architectures=fsm
+constants=black~zoom~plain~white~blue~yellow

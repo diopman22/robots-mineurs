@@ -1,0 +1,9 @@
+#
+#Mon Jan 16 16:24:41 UTC 2017
+operators=envelope~-~point~internal_at~one_of~inside~.~as~>~count~sort_by~where~and~distance_to~last~first_with~\=~+~empty~or~<~any_location_in~circle~neighbors_at~?~\:~<\=
+plugins=msi.gama.core~ummisco.gaml.extensions.maths
+statements=action~let~if~else~set~return~init~reflex~aspect~draw~create~diffuse~do~output~display~display_grid~display_population~monitor
+skills=reflex~grid
+constants=yellow~blue~green~white
+types=geometry~string~list~int~unknown~point~agent~rgb~float~bool~date~container
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause

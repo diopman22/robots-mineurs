@@ -1,0 +1,10 @@
+#
+#Thu Jan 19 17:46:38 UTC 2017
+architectures=fsm
+operators=envelope~-~point~rnd~one_of~.~as~>~count~sort_by~where~and~distance_to~last~first_with~+~\=~<~or~circle~distance_between~?~<\=~\:~*
+plugins=msi.gama.core~ummisco.gaml.extensions.maths
+statements=action~let~if~else~set~return~init~reflex~state~do~arg~transition~aspect~draw~loop~ask~create~diffuse~output~display~agents~display_population~monitor
+skills=reflex~moving~fsm~grid
+constants=yellow~black~green
+types=geometry~string~list~int~unknown~point~agent~rgb~float~bool~date~container~topology
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander

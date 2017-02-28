@@ -1,0 +1,9 @@
+#
+#Thu Jan 19 17:36:41 UTC 2017
+operators=envelope~-~internal_at~as~one_of~inside~.~\=~empty~+~any_location_in~neighbors_at
+plugins=msi.gama.core
+statements=init~set~reflex~if~else~aspect~draw~create~do~save~output~display~display_grid~display_population~chart~data~monitor
+skills=reflex~grid
+constants=white~red~blue~yellow
+types=geometry~string~list~int~unknown~point~agent~rgb~float~bool~date~container~file
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause
